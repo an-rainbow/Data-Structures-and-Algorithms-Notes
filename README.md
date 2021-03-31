@@ -6,3 +6,7 @@
 # DFS
 [Depth First Search (DFS) Explained: Algorithm, Examples, and Code] [https://www.youtube.com/watch?v=PMMc4VsIacU]
 - *Animation for DFS 
+
+# BFS
+[Breadth First Search (BFS): Visualized and Explained] [https://www.youtube.com/watch?v=xlVX7dXLS64]
+-*Animation for BFS
