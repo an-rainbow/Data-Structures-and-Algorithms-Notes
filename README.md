@@ -17,4 +17,7 @@
 **[Breadth-First Search (BFS)](https://www.youtube.com/watch?v=s-CYnVz-uh4)**
 - *MIT BFS Course 50 mins, need to watch later
 
+**[559. Maximum Depth of N-ary Tree](https://www.youtube.com/watch?v=TtAflDtqwVg)**
+- *Leetcode question 559, with recursion, BSF and DFS
+
 
