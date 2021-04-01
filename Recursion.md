@@ -46,7 +46,7 @@ public class Number559 {
 
 ## Iterative DFS
 
-     	public int maxDepth(Node root) {
+     	 public int maxDepth(Node root) {
          if(root == null) return 0;
          
          Stack<Node> stack = new Stack<>();
