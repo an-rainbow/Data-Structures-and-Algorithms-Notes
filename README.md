@@ -17,4 +17,4 @@
 [Breadth-First Search (BFS)] [https://www.youtube.com/watch?v=s-CYnVz-uh4]
 - *MIT BFS Course 50 mins, need to watch later
 
-![me][file:///Users/anna/Downloads/IMG_3288%20(3).JPG]
+![me][IMG_3288 (3).JPG]
