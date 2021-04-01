@@ -1,5 +1,5 @@
 # 559. Maximum Depth of N-ary Tree
--* BFS
+## BFS
 public class Number559 {
 
 	public int maxDepth(Node root) {
@@ -28,7 +28,7 @@ public class Number559 {
 	return depth;
 	}
   
-  -*DFS
+  ## DFS
   class Solution {
     public int maxDepth(Node root) {
         if(root==null){
@@ -44,7 +44,7 @@ public class Number559 {
     }
 }
 
--*Iterative DFS
+## Iterative DFS
 
      	public int maxDepth(Node root) {
          if(root == null) return 0;
