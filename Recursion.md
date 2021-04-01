@@ -60,7 +60,7 @@ public class Number559 {
              int d = depth.pop();
             
              for(Node node: n.children) {
-                 max = Math.max(d + 1, maxDepth);
+                 max = Math.max(d + 1, max);
                  stack.push(node);
                  depth.push(d + 1);
              }
