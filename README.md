@@ -10,6 +10,9 @@
 **[Depth-First Search (DFS), Topological Sort](https://www.youtube.com/watch?v=AfSk24UTFS8)**
 - *MIT DFS course 50 mins, need to watch later
 
+**[InOrder, PreOrder, PostOrder Traverse, easy tricks](https://www.youtube.com/watch?v=98AGQU0z2wg)
+- *A video shows how to do traverse with tricks
+
 # BFS
 **[Breadth First Search (BFS): Visualized and Explained](https://www.youtube.com/watch?v=xlVX7dXLS64)**
 - *Animation for BFS
