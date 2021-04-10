@@ -28,4 +28,4 @@
 # Preorder, Inorder, Postorder Traversal
 Leetcode forum has a comprehensive note about **[Traverse a tree](https://leetcode.com/explore/learn/card/data-structure-tree/134/traverse-a-tree/929/)**
 ## Preorder
-- **[Recursive Method]()
+- **[Recursive Method](https://github.com/an-rainbow/Data-Structures-and-Algorithms-Notes/blob/main/PreorderTravseral_Iterative.java)**
