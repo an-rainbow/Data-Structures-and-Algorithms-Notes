@@ -33,6 +33,6 @@ Leetcode forum has a comprehensive note about **[Traverse a tree](https://leetco
 - **[Iterative Method]()**
 ## Inorder
 **[Leetcode 94](https://leetcode.com/problems/binary-tree-inorder-traversal/)** Medium
-- **[Recursive Method](Data-Structures-and-Algorithms-Notes/Inordertravseral_recursive.java /)**
+- **[Recursive Method](https://github.com/an-rainbow/Data-Structures-and-Algorithms-Notes/blob/main/Inordertravseral_recursive.java)**
 
-- **[Iterative Method]()**
+- **[Iterative Method](https://github.com/an-rainbow/Data-Structures-and-Algorithms-Notes/blob/main/InorderTravseral_Iterative.java)**
