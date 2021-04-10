@@ -27,6 +27,8 @@
 
 # Preorder, Inorder, Postorder Traversal
 Leetcode forum has a comprehensive note about **[Traverse a tree](https://leetcode.com/explore/learn/card/data-structure-tree/134/traverse-a-tree/929/)**
+- Summarization of the iterative implementation for preorder, inorder, and postorder traverse. Same format for three iterative method, can use as Template.
+**[Summary code](https://leetcode.com/problems/binary-tree-postorder-traversal/discuss/45551/Preorder-Inorder-and-Postorder-Iteratively-Summarization)**
 ## Preorder
 **[LeetCode 144](https://leetcode.com/problems/binary-tree-preorder-traversal/)** Medium
 - **[Recursive Method](https://github.com/an-rainbow/Data-Structures-and-Algorithms-Notes/blob/main/PreorderTraversal_Recursive.java)**
