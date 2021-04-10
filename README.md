@@ -30,7 +30,7 @@ Leetcode forum has a comprehensive note about **[Traverse a tree](https://leetco
 ## Preorder
 **[LeetCode 144](https://leetcode.com/problems/binary-tree-preorder-traversal/)** Medium
 - **[Recursive Method](https://github.com/an-rainbow/Data-Structures-and-Algorithms-Notes/blob/main/PreorderTravseral_Iterative.java)**
-- **[Iterative Method]()**
+- **[Iterative Method](https://github.com/an-rainbow/Data-Structures-and-Algorithms-Notes/blob/main/PreorderTravseral_Iterative.java)**
 ## Inorder
 **[Leetcode 94](https://leetcode.com/problems/binary-tree-inorder-traversal/)** Medium
 - **[Recursive Method](https://github.com/an-rainbow/Data-Structures-and-Algorithms-Notes/blob/main/Inordertravseral_recursive.java)**
