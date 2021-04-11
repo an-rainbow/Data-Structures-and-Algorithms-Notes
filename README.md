@@ -43,4 +43,5 @@ Leetcode forum has a comprehensive note about **[Traverse a tree](https://leetco
 - **[Iterative Method](https://github.com/an-rainbow/Data-Structures-and-Algorithms-Notes/blob/main/PostorderTraversal_Iterative.java)**
 
 # Binary Tree Level Order Traversal
-- **[Leetcode 102](https://leetcode.com/problems/binary-tree-level-order-traversal/)**
+- Need to practice this basic question and get very familiar with the code, laid foundation for other iterative travsersal method.
+- **[Leetcode 102](https://leetcode.com/problems/binary-tree-level-order-traversal/)** Medium
